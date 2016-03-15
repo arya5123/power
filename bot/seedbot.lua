@@ -208,7 +208,7 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-    "onservice",
+    "2_440194165989441997",         "onservice",
     "inrealm",
     "ingroup",
     "inpm",
@@ -253,36 +253,36 @@ Persian: @IranSeed
 ]],
     help_text_realm = [[
 Realm Commands:
-
+~~~~~~~~~~~~~~~~~~~~~
 !creategroup [name]
-Create a group
-
+🏢ساخت گروه🏢
+~~~~~~~~~~~~~~~~~~~~~~
 !createrealm [name]
-Create a realm
-
+🏦ساخت گروه ادمین🏦
+~~~~~~~~~~~~~~~~~~~~~~
 !setname [name]
-Set realm name
-
+🎊انتخاب اسم🎊
+~~~~~~~~~~~~~~~~~~~~~~~~~
 !setabout [group_id] [text]
-Set a group's about text
-
+✉انتخاب توضیحات برای گروه✉
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !setrules [grupo_id] [text]
-Set a group's rules
-
+👮انتخاب قوانین برای گروه👮
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 !lock [grupo_id] [setting]
-Lock a group's setting
+🚧🔧قفل تنظیمات گروه🔧🚧
 
 !unlock [grupo_id] [setting]
-Unock a group's setting
+🚦🔧باز کردن تنظیمات گروه🔧🚦
 
 !wholist
-Get a list of members in group/realm
+📑تمام اعضای گروه بصورت لیست📑
 
 !who
-Get a file of members in group/realm
+🎫تمام اعضای گروه بصورت فایل🎫
 
 !type
-Get group type
+📌برای تایپ گروه📌
 
 !kill chat [grupo_id]
 Kick all memebers and delete group
