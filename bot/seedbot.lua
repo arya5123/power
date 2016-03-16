@@ -327,77 +327,77 @@ This command will send text to [group_id]
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
-
+خذف با ایدی و یوزرنیم
+~~~~~~~~~~~~~~~~~~~~~~~~
 !ban [ username|id]
-You can also do it by reply
-
+خذف برای همیشه با ایدی و یوزرنیم
+~~~~~~~~~~~~~~~~~~~~~~~~~
 !unban [id]
-You can also do it by reply
-
+انبن کردن با ایدی
+~~~~~~~~~~~~~~~~~~~~~~~
 !who
-Members list
-
+لیست افراد گروه
+~~~~~~~~~~~~~~~~~~~~~~~
 !modlist
-Moderators list
-
+لیست مدیران گروه
+~~~~~~~~~~~~~~~~~~~~~~~
 !promote [username]
-Promote someone
-
+مدیر کردن با رپلی و‌ یوزرنیم
+~~~~~~~~~~~~~~~~~~~~
 !demote [username]
-Demote someone
-
+در اوردن از ادمینی با ریپلی و یوزرنیم
+~~~~~~~~~~~~~~~~~~~
 !kickme
-Will kick user
-
+رفتن از گروه
+~~~~~~~~~~~~~~~~~~~
 !about
-Group description
-
+درباره ی گروه
+~~~~~~~~~~~~~~~~~~~
 !setphoto
-Set and locks group photo
-
+انتخاب عکس گروه
+~~~~~~~~~~~~~~~~~~
 !setname [name]
-Set group name
-
+انتخاب نام گروه
+~~~~~~~~~~~~~~~~~~~~
 !rules
-Group rules
-
+قوانین گروه
+~~~~~~~~~~~~~~~~~~~~~~
 !id
-Return group id or user id
-
+ایدی شما
+~~~~~~~~~~~~~~~~~~~~~~
 !help
-Get commands list
-
+لیست دستورات
+~~~~~~~~~~~~~~~~~~~~~~~
 !lock [member|name|bots|leave] 
-Locks [member|name|bots|leaveing] 
-
+قفل [اعضا|نام|رباتها|ترک کردن] 
+~~~~~~~~~~~~~~~~~~~~~~~~
 !unlock [member|name|bots|leave]
-Unlocks [member|name|bots|leaving]
-
+باز کردن [اعضا|نام|رباتها|ترک کردن]
+~~~~~~~~~~~~~~~~~~~~~~
 !set rules [text]
-Set [text] as rules
-
+انتخاب قوانین برای گروه
+~~~~~~~~~~~~~~~~~~~~~
 !set about [text]
-Set [text] as about
-
+انتخاب درباره برای گروه
+~~~~~~~~~~~~~~~~~~~~~
 !settings
-Returns group settings
-
+نمایش تنظیمات گروه
+~~~~~~~~~~~~~~~~~~~~~~
 !newlink
-Create/revoke your group link
-
+ساخت لینک جدید
+~~~~~~~~~~~~~~~~~~~~~~
 !link
-Returns group link
-
+نمایش لینک‌گروه
+~~~~~~~~~~~~~~~~~~~~~~
 !owner
-Returns group owner id
-
+نمایش ایدی مدیرکل گروه
+~~~~~~~~~~~~~~~~~~~~
 !setowner [id]
-Will set id as owner
-
+انتخاب مدیرکل گروه با ایدی و ریپلی
+~~~~~~~~~~~~~~~~~~~~
 !setflood [value]
-Set [value] as flood sensitivity
-
+انتخاب تعداد اسپم
+~~~~~~~~~~~~~~~~~~~~
 !stats
 Simple message statistics
 
